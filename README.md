@@ -1,2 +1,12 @@
 # Java_Concepts_programs
-A thoughtfully curated collection of Java programs that explore a wide range of core concepts — from object-oriented programming (OOP) and exception handling to multithreading and file I/O operations. Perfect for strengthen Java foundation and practical coding skills.
+Author: Abhishek Bhoite
+
+This repository contains a curated collection of Java programs covering core concepts such as data types, control structures, arrays, object-oriented programming (OOP), exception handling, file I/O, multithreading, and more.
+
+Topics Include:
+Classes, Inheritance, Polymorphism, Abstraction
+Try-Catch, Custom Exceptions
+File Handling using Reader/Writer
+
+Thread Basics and Synchronization
+Each program is written for clarity and conceptual understanding — ideal to build strong fundamentals.
