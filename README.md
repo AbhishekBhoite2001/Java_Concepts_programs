@@ -7,6 +7,6 @@ Topics Include:
 Classes, Inheritance, Polymorphism, Abstraction
 Try-Catch, Custom Exceptions
 File Handling using Reader/Writer
-
 Thread Basics and Synchronization
+
 Each program is written for clarity and conceptual understanding — ideal to build strong fundamentals.
